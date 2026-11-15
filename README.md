@@ -1,4 +1,4 @@
-# lexu-io
+# Lexu.io
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lexu-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lexu.io/
+Lexu.io is an AI‑powered creative studio based in Egypt, offering a suite of generative tools for video, image, audio and text. Users can create cinematic videos, product photos, ads, songs, voice‑overs and more using models like Seedance 2.5, Veo 3.1, Kling, GPT‑Image and Nano Banana, all accessible via a unified web interface. The platform provides free monthly credits, pay‑as‑you‑go pricing, and supports Arabic and English inputs, targeting creators, marketers and developers seeking AI‑enhanced content.
+
+**Areas:** AI · CreativeStudio · VideoGeneration · ImageGeneration · AudioGeneration · Egypt
+
+## Lexu.io on APIs.io
+
+Everything profiled for Lexu.io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lexu-io/](https://apis.io/providers/lexu-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Lexu API](https://apis.io/apis/lexu-io/lexu-api/) — Lexu.io provides AI‑powered creative generation APIs as described in its developer documentation.
+- [Lexu.io API](https://apis.io/apis/lexu-io/lexu-io-api/) — Lexu.io API as documented publicly: 17 operations. Contract generated from the documentation by API Evangelist (2026-11-15); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [DeleteV1KeysCurrentResponse](https://apis.io/schemas/lexu-io/lexu-io-delete-v1-keys-current-response/)
+- [GetV1GenerationsIdResponse](https://apis.io/schemas/lexu-io/lexu-io-get-v1-generations-id-response/)
+- [GetV1LedgerResponse](https://apis.io/schemas/lexu-io/lexu-io-get-v1-ledger-response/)
+- [PostV1GenerationsRequest](https://apis.io/schemas/lexu-io/lexu-io-post-v1-generations-request/)
+- [PostV1GenerationsResponse](https://apis.io/schemas/lexu-io/lexu-io-post-v1-generations-response/)
+- [PostV1StudioJobsRequest](https://apis.io/schemas/lexu-io/lexu-io-post-v1-studio-jobs-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Lexu Io Context](https://apis.io/jsonld/lexu-io/lexu-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Lexu.io API Rules](https://apis.io/rules/lexu-io/lexu-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lexu.io Domain Security](https://apis.io/security/lexu-io/lexu-io-domain-security/)
+- [Lexu.io Vulnerability Disclosure](https://apis.io/security/lexu-io/lexu-io-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Lexu.io Plans Pricing](https://apis.io/plans/lexu-io/lexu-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lexu.io/)
+- [Documentation](https://www.lexu.io/docs)
+- [Getting started](https://www.lexu.io/docs/quickstart)
+- [Pricing](https://www.lexu.io/pricing)
+- [Security](https://www.lexu.io/.well-known/security-policy.txt)
+- [Terms of service](https://www.lexu.io/legal/terms)
+- [Privacy policy](https://www.lexu.io/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 56.1** — strong · rubric 0.27.0 · scored 2026-11-15
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 53.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 40.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lexu-io/](https://apis.io/providers/lexu-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lexu.io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lexu-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
